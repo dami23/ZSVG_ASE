@@ -42,7 +42,7 @@ Here, refcoco_try denotes the experiment or configuration name. Replace it with 
 python codes/model_train.py refcoco_try --resume=True --only_test=True
 
 ## 3. Pretrained Models
-The pretrained models can be downloaded from Google Drive:
+The pretrained models can be downloaded from [Google Drive] (https://drive.google.com/drive/folders/14o1KIfV5az6gWKXRYsq_ses_9H26KRnh?usp=drive_link)
 After downloading, place the checkpoint files in the corresponding checkpoint directory, for example:
 ```text
 checkpoints/
