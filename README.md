@@ -15,7 +15,7 @@ The project supports the following visual grounding datasets:
 - VG-2B/2UB/3B/3UB
   
 Please organize the datasets according to the directory structure expected by the configuration files in this repository, and download the required csv files from https://github.com/TheShadow29/zsgnet-pytorch.
-
+```text
 project_root/
 ├── codes/
 ├── datasets/
@@ -26,7 +26,7 @@ project_root/
 │   └── vg/
 ├── checkpoints/
 └── README.md
-
+```
 ## 2. Model Training
 
 ### 2.1 Select GPUs
