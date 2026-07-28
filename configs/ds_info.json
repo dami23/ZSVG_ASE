@@ -1,0 +1,74 @@
+{
+    "flickr30k": {
+	"data_dir": "/home/mi/data/Datasets",
+	"img_dir": "/home/mi/data/Datasets/flickr30k_images",
+	"trn_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/flickr30k/csv_dir/train_flat.csv",
+	"val_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/flickr30k/csv_dir/val.csv",
+	"test_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/flickr30k/csv_dir/test.csv"
+    },
+    "flickr30k_c0": {
+	"data_dir": "/home/mi/data/Datasets",
+	"img_dir": "/home/mi/data/Datasets/flickr30k_images",
+	"trn_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/flickr30k_c0/csv_dir/train.csv",
+	"val_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/flickr30k_c0/csv_dir/val.csv",
+	"test_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/flickr30k_c0/csv_dir/test.csv"
+    },
+    "flickr30k_c1": {
+	"data_dir": "/home/mi/data/Datasets",
+	"img_dir": "/home/mi/data/Datasets/flickr30k_images",
+	"trn_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/flickr30k_c1/csv_dir/train.csv",
+	"val_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/flickr30k_c1/csv_dir/val.csv",
+	"test_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/flickr30k_c1/csv_dir/test.csv"
+    },
+    "vg_2b": {
+	"data_dir": "/home/mi/data/Datasets",
+	"img_dir": "/home/mi/data/Datasets/visual_genome",
+	"trn_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/vg_split/csv_dir/train_balanced.csv",
+	"val_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/vg_split/csv_dir/val_balanced.csv",
+	"test_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/vg_split/csv_dir/test_balanced_c2.csv"
+    },
+	"vg_2ub": {
+	"data_dir": "/home/mi/data/Datasets",
+	"img_dir": "/home/mi/data/Datasets/visual_genome",
+	"trn_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/vg_split/csv_dir/train.csv",
+	"val_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/vg_split/csv_dir/val_balanced.csv",
+	"test_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/vg_split/csv_dir/test_c2.csv"
+	},
+	"vg_3b": {
+	"data_dir": "/home/mi/data/Datasets",
+	"img_dir": "/home/mi/data/Datasets/visual_genome",
+	"trn_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/vg_split/csv_dir/train_balanced.csv",
+	"val_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/vg_split/csv_dir/val_balanced.csv",
+	"test_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/vg_split/csv_dir/test_balanced_c3.csv"
+	},
+	"vg_3ub": {
+	"data_dir": "/home/mi/data/Datasets",
+	"img_dir": "/home/mi/data/Datasets/visual_genome",
+	"trn_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/vg_split/csv_dir/train.csv",
+	"val_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/vg_split/csv_dir/val_balanced.csv",
+	"test_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/vg_split/csv_dir/test_c3.csv"
+	},
+	"refcoco": {
+		"data_dir": "/home/mi/data/Datasets",
+		"img_dir": "/home/mi/data/Datasets/train2014",
+		"trn_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/refcoco/csv_dir/train.csv",
+		"val_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/refcoco/csv_dir/val.csv",
+		"testA_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/refcoco/csv_dir/testA.csv",
+		"testB_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/refcoco/csv_dir/testB.csv"
+	},
+	"refcoco+": {
+		"data_dir": "/home/mi/data/Datasets",
+		"img_dir": "/home/mi/data/Datasets/train2014",
+		"trn_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/refcoco+/csv_dir/train.csv",
+		"val_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/refcoco+/csv_dir/val.csv",
+		"testA_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/refcoco+/csv_dir/testA.csv",
+		"testB_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/refcoco+/csv_dir/testB.csv"
+	},
+	"refcocog": {
+		"data_dir": "/home/mi/data/Datasets",
+		"img_dir": "/home/mi/data/Datasets/train2014",
+		"trn_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/refcocog/csv_dir/train.csv",
+		"val_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/refcocog/csv_dir/val.csv",
+		"test_csv_file": "/home/mi/data/projects/own_project/C2F_ZeroVG/data/refcocog/csv_dir/test.csv"
+	}
+}
