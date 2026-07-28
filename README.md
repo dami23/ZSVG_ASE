@@ -44,9 +44,10 @@ python codes/model_train.py refcoco_try --resume=True --only_test=True
 ## 3. Pretrained Models
 The pretrained models can be downloaded from Google Drive:
 After downloading, place the checkpoint files in the corresponding checkpoint directory, for example:
+```text
 checkpoints/
 └── refcoco_try/
     └── checkpoint_best.pth
-
+```
 ## 4. Acknowledgements
 This implementation is developed using PyTorch. We thank the authors and maintainers of the datasets and related open-source projects used in this work.
