@@ -7,17 +7,15 @@ This repository provides the official PyTorch implementation of:
 Please download and prepare the required datasets before training or evaluation.
 
 The project supports the following visual grounding datasets:
-
 - RefCOCO
 - RefCOCO+
 - RefCOCOg
 - Flickr30K Entities
 - Flickr-Split-0/1
 - VG-2B/2UB/3B/3UB
-
+  
 Please organize the datasets according to the directory structure expected by the configuration files in this repository, and download the required csv files from https://github.com/TheShadow29/zsgnet-pytorch.
 
-```text
 project_root/
 ├── codes/
 ├── datasets/
